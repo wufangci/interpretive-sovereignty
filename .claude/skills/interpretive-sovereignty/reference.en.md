@@ -8,7 +8,7 @@ This file supplements [SKILL.md](SKILL.md), documenting the legal and internatio
 
 - Full text: [Taiwan's Laws & Regulations Database](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0130021)
 - What it protects: expressions of Indigenous peoples' traditional religious rites, music, dance, songs, sculpture, weaving, patterns, dress, folk arts, or other cultural achievements
-- Core rationale: traditional intellectual creations evolved over long periods, are collective works with no identifiable individual author, and are far older than any copyright term — so they cannot fully fit the "originality," "specific author," and "term of protection" requirements of ordinary copyright law, and therefore need independent legislation
+- Core rationale: traditional intellectual creations evolved over long periods, are collective works with no identifiable individual author, and are far older than any copyright term, so they cannot fully fit the "originality," "specific author," and "term of protection" requirements of ordinary copyright law, and therefore need independent legislation
 - Ownership of rights: the exclusive right to a traditional intellectual creation belongs, in principle, collectively to the Indigenous people or tribe that created it; it cannot be waived without the consent of the competent authority (Taiwan's Council of Indigenous Peoples), and even if waived, it reverts to all Indigenous peoples collectively
 - Application and authorization contact: [Council of Indigenous Peoples](https://www.cip.gov.tw)
 
@@ -27,7 +27,7 @@ Proposed by the International Indigenous Data Sovereignty Interest Group under t
 
 - Website: [localcontexts.org](https://localcontexts.org)
 - Traditional Knowledge (TK) Labels and Biocultural (BC) Labels let communities mark the conditions under which their cultural data may be used (open, seasonal, ceremony-restricted, restricted, etc.)
-- These labels are technical tools that "support relational negotiation between communities and users" — they **cannot substitute** for genuine communication and consent with the community
+- These labels are technical tools that "support relational negotiation between communities and users"; they **cannot substitute** for genuine communication and consent with the community
 
 ### OCAP® Principles
 
@@ -36,10 +36,10 @@ Proposed by the International Indigenous Data Sovereignty Interest Group under t
 
 ## Common Scenarios Q&A
 
-**Q: The user just wants to learn about a people's traditional culture, not generate new content — does this trigger the rule?**
+**Q: The user just wants to learn about a people's traditional culture, not generate new content. Does this trigger the rule?**
 No. Plain factual explanation, academic discussion, and explaining legal provisions are informational answers and do not require evidence of consent. Evidence is only required when actually "generating / rewriting / representing" the cultural expression itself.
 
-**Q: The user says "this is my own tribe's culture, of course I can use it" — how should this be handled?**
+**Q: The user says "this is my own tribe's culture, of course I can use it." How should this be handled?**
 The user's self-declaration can be accepted as evidence (this skill does not perform identity verification), but the reply must still honestly record the premise "based on the user's stated claim," to avoid misleading later readers into thinking the content has been third-party verified.
 
 **Q: What about commercial use (e.g., turning this into a product or game art)?**
@@ -47,4 +47,4 @@ Even if the user provides basic evidence, commercial use carries higher risk. It
 
 ## A Note to Whoever Publishes This
 
-Before releasing this skill to a wider audience, we recommend actually discussing its wording and decision logic with relevant Taiwanese Indigenous organizations (e.g., the Council of Indigenous Peoples, various peoples' cultural development associations) — this itself is in keeping with the spirit of "Nothing About Us Without Us," avoiding a situation where an outside party unilaterally sets the standard for "what counts as a violation of cultural sovereignty" without community participation.
+Before releasing this skill to a wider audience, we recommend actually discussing its wording and decision logic with relevant Taiwanese Indigenous organizations (e.g., the Council of Indigenous Peoples, various peoples' cultural development associations). This itself is in keeping with the spirit of "Nothing About Us Without Us," avoiding a situation where an outside party unilaterally sets the standard for "what counts as a violation of cultural sovereignty" without community participation.
