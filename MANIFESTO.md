@@ -57,7 +57,7 @@
 ---
 
 *發起人：吳方娸 ljaljuy tjavelengan*
-*〔部落 / 族群， 賽嘉 Tjakaking / 排灣 Paiwan〕*
+*〔部落 / 族群， 賽嘉 Tailjaking / 排灣 Paiwan〕*
 *發表於 2026 年*
 
 *這份宣言與其技術實踐，隨時間、隨對話、隨更多族人的參與而持續修訂。歡迎透過 Issue 或 Pull Request，加入你的聲音。*

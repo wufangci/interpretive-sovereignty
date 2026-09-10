@@ -55,7 +55,7 @@ I invite everyone who installs this skill not merely to use a technical tool, bu
 ---
 
 *Issued by: 吳方娸 ljaljuy tjavelengan*
-*Tribe / People: 賽嘉 Tjakaking / Paiwan*
+*Tribe / People: 賽嘉 Tailjaking / Paiwan*
 *Published in 2026*
 
 *This declaration and its technical implementation will continue to be revised over time, through dialogue, and with the participation of more of our people. You are welcome to add your voice through an Issue or Pull Request.*
